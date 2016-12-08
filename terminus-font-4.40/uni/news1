@@ -1,0 +1,94 @@
+0304 MACRON
+0305 OVERLINE
+0307 DOTACCENT
+0308 DIERESIS
+030A RING
+030B HUNGARUMLAUT
+1E0C D DOTBELOW3
+1E0D d dotbelow3
+1E36 L dotbelow
+1E37 l1 dotbelow
+1E40 M DOTACCENT
+1E41 m Basic_dotaccent
+1E42 M dotbelow
+1E43 m Basic_dotbelow
+1E44 N DOTACCENT
+1E45 n Basic_dotaccent
+1E46 N dotbelow
+1E47 n dotbelow
+1E6C T Basic_dotbelow
+1E6D t dotbelow1
+200B space
+200C space
+200D space
+200E space
+200F space
+2070 SCRIPT_ZERO
+2071 superscript_i
+2074 SCRIPT_FOUR
+2075 SCRIPT_FIVE
+2076 SCRIPT_SIX
+2077 SCRIPT_SEVEN
+2078 SCRIPT_EIGHT
+2079 SCRIPT_NINE
+207A SCRIPT_PLUS
+207B SCRIPT_MINUS
+207C SCRIPT_EQUAL
+207D SCRIPT_PARENLEFT
+207E SCRIPT_PARENRIGHT
+2080 script_zero
+2081 script_one
+2082 script_two
+2083 script_three
+2084 script_four
+2085 script_five
+2086 script_six
+2087 script_seven
+2088 script_eight
+2089 script_nine
+208A script_plus
+208B script_minus
+208C script_equal
+208D script_parenleft
+208E script_parenright
+2090 subscript_a
+2091 subscript_e
+2092 subscript_o
+2093 subscript_x
+2094 subscript_schwa
+2095 subscript_h
+2096 subscript_k
+2097 subscript_l1
+2098 subscript_m
+209A subscript_p
+2200 forall
+2204 notexist
+2209 NOTELEMENT
+220B REVELEMENT
+220C REVNOTELEMENT
+220D revelement
+2319 logicalnoturn
+239B paren_left_up
+239C paren_left_center
+239D paren_left_down
+239E paren_right_up
+239F paren_right_center
+23A0 paren_right_down
+23A1 bracket_left_up
+23A2 paren_left_center
+23A3 bracket_left_down
+23A4 bracket_right_up
+23A5 paren_right_center
+23A6 bracket_right_down
+23A7 brace_left_up
+23A8 brace_left_center
+23A9 brace_left_down
+23AB brace_right_up
+23AC brace_right_center
+23AD brace_right_down
+23AE light_up light_down
+23AF light_left light_right
+23D0 light_up light_down
+2571 diagonal
+2572 diagonal_back
+2573 diagonal diagonal_back
