@@ -15,4 +15,4 @@ Here my all my favorite fonts use on linux
 		cd /usr/share/fonts
 		sudo -s
 		git clone https://github.com/t7hm1/Fonts.git
-		sudo fc-cache -fv
+		fc-cache -fv
